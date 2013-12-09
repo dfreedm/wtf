@@ -1,0 +1,17 @@
+{
+  "name": "wtf",
+  "version": "0.0.1",
+  "homepage": "https://github.com/azakus/wtf",
+  "authors": [
+    "Daniel Freedman <dfreedm@google.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
