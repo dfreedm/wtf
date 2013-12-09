@@ -1,6 +1,6 @@
 {
   "name": "wtf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/azakus/wtf",
   "authors": [
     "Daniel Freedman <dfreedm@google.com>"
@@ -13,5 +13,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3"
+  }
 }
